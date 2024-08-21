@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecallFlow IO", "RecallFlow IO\RecallFlow IO.csproj", "{36BDF27C-2E45-4116-8ADB-2D7BCAB556C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36BDF27C-2E45-4116-8ADB-2D7BCAB556C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36BDF27C-2E45-4116-8ADB-2D7BCAB556C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36BDF27C-2E45-4116-8ADB-2D7BCAB556C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36BDF27C-2E45-4116-8ADB-2D7BCAB556C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C8CADE2-4A1B-4D49-8326-EA7AB6832442}
+	EndGlobalSection
+EndGlobal
